@@ -127,7 +127,6 @@ class Get_remote_posts
 
 }
 
-
 $plugin_Get_remote_posts = new Get_remote_posts();
 
 //register_activation_hook(__FILE__, array($plugin_Get_remote_posts, 'activation'));
